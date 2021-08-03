@@ -47,6 +47,21 @@ body {
 
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 18px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 8px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+}
 
 h1,
 h2,
