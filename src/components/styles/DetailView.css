@@ -6,10 +6,12 @@
 }
 
 .detail-view {
-    width: 37%;
+    width: 36%;
     height: 100%;
-    padding: 10px;
-    background-color: #ff00008a;
+    border-style: double;
+    padding: 3px;
+    margin-left: 50% auto;
+    background-color: #f118188a;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     display: flex;
@@ -18,21 +20,24 @@
   }
   
   .sprite-image {
-    width: 80%;
+    width: 58%;
+    border-style: double;
     height: 150px;
     margin: 10px auto;
-    background-color: #ffffff;
-    border: 15px solid #0e0000;
+    background-color: #000000;
+    border: 3px solid #ffffff;
+    border-style: double;
     border-radius: 5px;
-    color: #585858;
   }
   
+
   .data-wrapper {
     width: 90%;
+    border-style: double;
     height: 110px;
     padding: 10px;
-    margin: 0 auto;
-    background-color: #000000;
+    margin: 40px auto;
+    background-color: #091fe4;
     border-radius: 5px;
     box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.22);
     color: #FFF;
