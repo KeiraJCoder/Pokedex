@@ -25,6 +25,10 @@
     height: 150px;
     margin: 10px auto;
     background-color: #000000;
+    background-image: url(C:\Users\Keira\Documents\CodeNation\Pokemon\pokemon\src\poke.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
     border: 3px solid #ffffff;
     border-style: double;
     border-radius: 5px;
