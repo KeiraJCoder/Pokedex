@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Pokedex/static/css/main.cf395fba.chunk.css",
+    "main.css": "/Pokedex/static/css/main.1cedd4d7.chunk.css",
     "main.js": "/Pokedex/static/js/main.cf48eb40.chunk.js",
     "main.js.map": "/Pokedex/static/js/main.cf48eb40.chunk.js.map",
     "runtime-main.js": "/Pokedex/static/js/runtime-main.d16c6d0c.js",
@@ -8,16 +8,16 @@
     "static/js/2.dc5ca14d.chunk.js": "/Pokedex/static/js/2.dc5ca14d.chunk.js",
     "static/js/2.dc5ca14d.chunk.js.map": "/Pokedex/static/js/2.dc5ca14d.chunk.js.map",
     "index.html": "/Pokedex/index.html",
-    "static/css/main.cf395fba.chunk.css.map": "/Pokedex/static/css/main.cf395fba.chunk.css.map",
+    "static/css/main.1cedd4d7.chunk.css.map": "/Pokedex/static/css/main.1cedd4d7.chunk.css.map",
     "static/js/2.dc5ca14d.chunk.js.LICENSE.txt": "/Pokedex/static/js/2.dc5ca14d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Pokedex/static/media/ball.8d0a5af9.png",
+    "static/media/App.css": "/Pokedex/static/media/dex.b58a8f8f.png",
     "static/media/DetailView.css": "/Pokedex/static/media/poke.945a4812.png",
     "static/media/sprites.5ea3b22a.png": "/Pokedex/static/media/sprites.5ea3b22a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d16c6d0c.js",
     "static/js/2.dc5ca14d.chunk.js",
-    "static/css/main.cf395fba.chunk.css",
+    "static/css/main.1cedd4d7.chunk.css",
     "static/js/main.cf48eb40.chunk.js"
   ]
 }
